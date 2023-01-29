@@ -1,4 +1,3 @@
-#OpenToWork
 
 - 👋 Hi, I’m @AndresBojaca
 - 🌱 I’m currently learning React.js, Angular.js, Redux
